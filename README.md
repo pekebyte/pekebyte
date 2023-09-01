@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Molina</h1>
-<h3 align="center">A passionate frontend developer from Venezuela</h3>
+<h3 align="center">A passionate full-stack developer from Venezuela</h3>
 
 - 📝 I regularly write articles on [pekebyte.com](pekebyte.com)
 
